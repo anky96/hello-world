@@ -1,0 +1,42 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "kfc",
+      "address": "noida sec 50",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 2,
+      "name": "om",
+      "address": "delhi sec 20",
+      "email": "om@test.com"
+    },
+    {
+      "id": 3,
+      "name": "bking",
+      "address": "delhi sec 20",
+      "email": "bking@test.com"
+    },
+    {
+      "id": 4,
+      "name": "dominos",
+      "address": "gurgaon sec 20",
+      "email": "dominos@test.com"
+    },
+    {
+      "name": "haldiram sweets",
+      "email": "haldiram@test.com",
+      "address": "Noida sec 20",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "anky",
+      "email": "anky@test.com",
+      "password": "12345",
+      "id": 1
+    }
+  ]
+}
